@@ -1,0 +1,245 @@
+*{
+    padding: 0;
+   margin:0;
+ 
+}
+.nav1{
+    background:black;
+    height:100px;
+    width:1500px;
+    line-height: 40px;
+}
+.nav-item1{
+    font-size: 40px;
+    padding-left: 15px;
+    color: aliceblue;
+ }
+ .nav-item2 {
+    font-size: 24px;
+    padding-left: 15px;
+    color: aliceblue;
+ }
+ .nav2 nav-item3{
+    color:white;
+    font-size: 24px;
+    padding-left: 100px;
+ }
+ .nav2{
+    font-size: 24px;
+    line-height: 40px;
+    float: left;
+ }
+ .nav-item3:hover,.active
+  {
+ color: white;
+ font-weight: bold;
+
+ }
+ .nav-item3{
+    float: left;
+    list-style: none;
+    
+    padding: 30px;
+    position: relative;
+ }
+ .nav-item3 a{
+    text-decoration: none;
+    color:black;
+    padding: 0  20px;
+ }
+ .nav-item3:hover .nav-sub{
+    display: block;
+    background:rgb(88, 33, 33);
+ }
+ .nav-sub{
+    display: none;
+    background-color: pink;
+    width: 170px;
+    position: absolute;
+    list-style: none;
+ }
+ .nav-sub:hover{
+     
+ }
+.zong1{
+    border-left: 1px solid rgb(10, 10, 10); 
+    width: 180px;
+    height: 200px;
+    padding-left: 180px;
+    float:left;
+}
+.wenzi1{
+    font-size: 25px;
+}
+.zong2{
+    border-left: 1px solid rgb(10, 10, 10); 
+    width: 160px;
+    height: 200px;
+    padding-left: 140px;
+    float:left;
+}
+
+.zong3{
+    border-left: 1px solid rgb(7, 7, 7); 
+    width: 160px;
+    height: 200px;
+    padding-left: 120px;
+    float:left;
+}
+.wenzi1{
+    font-size: 25px;
+}
+.zong4{
+    border-left: 1px solid black; 
+    width: 160px;
+    height: 200px;
+    padding-left:140px;
+    float:left;
+}
+.wenzi1{
+    font-size: 25px;
+}
+.big-title{
+    font-size: 40px;
+    padding-top: 100px;
+    margin-top: 200px;
+}
+.zong-pinpai{
+    background: rgb(238, 235, 235);
+    margin-top: 50px;
+}
+.pinpai{
+    width: 652px;
+    height:200px;
+    border: 1px solid rgb(83, 83, 83);
+    float: left;
+    background: rgb(238, 235, 235);
+}
+.pinpai1{
+    width: 652px;
+    height:200px;
+    border: 1px solid rgb(88, 87, 87);
+    float: left;
+    background: rgb(238, 235, 235);
+}
+.big-title1{
+    font-size: 40px;
+    padding-top: 300px;
+    margin-top: 200px;
+    border: 1px solid rgb(83, 83, 83);
+}
+.chanpin-nav1{
+    border-right:1px solid rgb(102, 101, 101);
+    border-top:1px solid rgb(102, 101, 101);
+    border-bottom: 1px solid rgb(102, 101, 101);
+    width:350px;
+    height:370px;
+}
+.chanpin-nav{
+    padding-left: 50px;
+    float: left;
+}
+.nav-item5{
+    font-size: 30px;
+   
+    list-style: none;
+    padding-left: 120px;
+}
+.nav-item5:hover{
+    color:rgb(0, 255, 221);
+}
+.nav-item5:hover,.active
+  {
+ color: rgb(0, 255, 234);
+ font-weight: bold;
+
+ }
+.nav-item5 a{
+    text-decoration: none;
+    color: rgb(97, 95, 95);
+}
+.nav-item6{
+    list-style: none;
+    padding-left: 120px;
+    line-height:40px;
+}
+.nav-item6 a{
+    text-decoration: none;
+    color: rgb(122, 119, 119);
+}
+.nav-item6:hover,.active
+  {
+ color: rgb(0, 255, 234);
+ font-weight: bold;
+
+ }
+ .nav-item7{
+    font-size: 30px;
+    background: rgb(0, 119, 255);
+    cursor: pointer;
+    padding-left: 10px;
+    width: 130px;
+    height:50px;
+    list-style: none;
+     
+ }
+ .chanpin-nav2{
+    margin-left: 100px;
+ }
+ .nav-item7 a{
+    text-decoration: none;
+ }
+ .nav-item7:hover{
+    background-color:rgb(51, 223, 16);
+ }
+ .gongneng{
+    width: 1500px;
+    height:700px;
+    margin-top: 50px;
+    border:1px solid black;
+  background: rgb(63, 62, 62);
+   float: left;
+ }
+ .gongneng p{
+    font-size: 40px;
+    color: aliceblue;
+ }
+.gongnengwenzi{
+    padding-left: 550px;
+}
+ .gongneng1{
+    margin-top: 100px;
+    padding-left: 80px;
+    border: 1px solid rgb(163, 161, 161);
+ }
+ .hangye{
+    width: 1500px;
+    height:1000px;
+    margin-top: 100px;
+ }
+ .hangyetitle{
+    padding-left: 550px;
+    padding-top: 100px;
+ }
+ .hangyetitle p{
+    font-size:30px;
+    color: rgb(58, 56, 56);
+ }
+ .hangye-pic{
+    padding-top: px;
+ }
+ .zuihou-nav{
+width: 1500px;
+height: 400px;
+background: rgb(17, 17, 51);
+border: 1px solid black;
+float: left;
+ }
+ .zuihou-nav1{
+    float: left;
+}
+ .zuihou-nav10{
+    width: 1500px;
+    height: 400px;
+    background: rgb(17, 17, 51);
+}
